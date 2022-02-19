@@ -1,1 +1,1 @@
-# blockchain-workshop-1
+# blockchain-workshop
